@@ -1,6 +1,6 @@
 # ABOUT
 
-This repository is only or educational and trainning goals.
+This repository is only for educational and trainning goals.
 
 # DESIGN PATTERNS
 
