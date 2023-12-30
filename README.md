@@ -6,13 +6,6 @@ This repository is only for educational and trainning goals.
 
 Design Pattern is a repeatable solution for software design.
 
-# PROGRAMMING LANGUAGES
-
-- C++
-- TypeScript
-- Python
-- Java
-
 # MORE INFORMATION
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
